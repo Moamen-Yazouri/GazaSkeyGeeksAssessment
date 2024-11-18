@@ -1,0 +1,12 @@
+h1 {
+    margin: auto;
+    width: fit-content;
+}
+.products {
+    background-color: lightgray;
+    border: 1px solid black;
+}
+.products  li{
+    color: green;
+    font-weight: bold;
+}
