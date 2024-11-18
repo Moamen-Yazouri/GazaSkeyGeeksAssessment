@@ -16,6 +16,8 @@ function sumOfarr(arr) {
     console.log(`The total sum is: ${sum}`);
     console.log(`The Averege is: ${avg}`);    
 }
+// ----------------------------------------------------
+
 
 // Task 3
 // Because Of constant time complexity
@@ -31,7 +33,6 @@ function getUniqueValues(arr) {
 
     // Turn the nonDub from Set to Array
     return Array.from(nonDub);
-
 }
-
+// ---------------------------------------------------
 
